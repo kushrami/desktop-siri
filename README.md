@@ -1,7 +1,7 @@
 windows-Voice Assistance Program
 ================================
 
-Check this youtubr link:
+Check this video link:
 https://www.youtube.com/watch?v=wLr_ryni270
 
 its a simple python program which interacts with user like like iPhone-siri/alexa/google home/cortana
