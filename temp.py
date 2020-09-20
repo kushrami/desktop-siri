@@ -1,3 +1,6 @@
+#Author : kushrami
+
+
 import os,pyttsx,urllib,feedparser
 import speech_recognition as sr
 
